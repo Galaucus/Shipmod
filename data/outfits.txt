@@ -51,7 +51,7 @@ outfit "Betelgeuse Up-Armoring"
 		description "Betelgeuse Shipyards is a venerable institution, hailing back from before shield technology had advanced to its current, reliable state. Back then, sometimes the only thing standing between a ship's crew and the void - or belligerent pirates - was a few inches of ablative plating and reinforced bulkhead. Though expensive, Betelgeuse Shipyards' custom up-armoring services have saved many a captain over the centuries, and continues to be a favorite among those who value their life more than saving money."
 		
 outfit "Hai Up-Armoring"
-		category
+		category "Systems"
 		cost 1500000
 		thumbnail "outfit/red screwdriver"
 		"mass" 15
