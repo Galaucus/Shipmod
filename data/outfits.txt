@@ -1,4 +1,4 @@
-outfit "Park and Preen"
+outfit "Tarazed Tune-up"
 		category "Engines"
 		cost 1000000
 		thumbnail "outfit/red screwdriver"
@@ -74,6 +74,36 @@ outfit "Megaparsec Electrical Overhaul"
 		description "Mass-produced ships are rarely - if ever - created with optimized electrical systems. Owing to the legendarily shoddy wiring found in Syndicate-produced vessels, Megaparsec has decided to enter the market for aftermarket electrical solutions. The service, far from being only attractive to luxury-minded Syndicate CEOs, has ended up attracting the attention of merchant captains, pirate lords, bounty hunters and anyone looking to squeeze just a bit more power from their ship."
 		description "For a sizable sum Megaparsec engineers will completely overhaul your ship's power infrastructure and install a custom electrical grid calibrated to the needs of your ship. The most noticeable result is more efficient shielding - but perhaps more importantly, your crew will be able to sleep better without the constant hum of cheap conduits over their bunks."
 
+outfit "Syndicated Spatial Stabilizers"
+		category "Engines"
+		cost 1000000
+		thumbnail "outfit/blue screwdriver"
+		"force protection" .25
+		"slowing protection" .25
+		"engine mod" -1
+		"unplunderable" 1
+		description "Rumors abound as to exactly how - and why - the Syndicate pioneered this engine-modifying technology, but its efficacy in preventing ships from being shaken about by incoming fire is unquestioned. It's as popular among martially-inclined captains who value shrugging off missile impacts as it is among ultra-wealthy private ship owners who don't want their luxurious furnishings to be disturbed by atmospheric re-entry."
+		
+outfit "Stealth Resurfacing"
+		category "Systems"
+		cost 500000
+		thumbnail "outfit/red screwdriver"
+		"scan interference" .6
+		"radar jamming" 1
+		"hull mod" -1
+		description "While interference plating can be effective when simply mounted adjacent to the hull, those with secrets to hide and money to spend can instead have it integrated fully into their hull. This is generally accompanied by surface-level reshaping in order to better neutralize radar. Treating an entire ship can render its interior an enigma to observers and its exterior effectively invisible to radar-based missiles."
+		description "The technical sophistication inherent in such an overhaul, as well as its questionable legality, leads to its scarcity; every pirate and smuggler out there would be packing a hull like this if they could."
+		
+outfit `"Remora" Assault Airlock`
+		category "Hand to Hand"
+		cost "7500000"
+		thumbnail "outfit/red screwdriver"
+		"capture attack" 200
+		"mass" 20
+		"hull" -200
+		"hull mod" -8
+		description "Why go in through the front door when you could attack from an unexpected angle? This belly-mounted airlock comes equipped with a sophisticated breaching array. Once clamped onto a target it can, in short order: cut a wide boarding breach, flush grenades of choice into the breach, and then facilitate rapid entry by marine teams. An expensive and rather niche modification for ships, it's generally only used by wealthy pirates and Naval special operations. Regardless of the owner, the poor saps on the receiving end are practically guaranteed a bad day."
+
 outfit "Remnant Electrical Overhaul"
 		category "Systems"
 		licenses
@@ -129,6 +159,7 @@ outfit "Biomechanical Sensors"
 		"unplunderable" 1
 		description "A complex series of organic/electrical sensors located on, or just under the hull of Remnant vessels grant them perception that would generally require an advanced sensor suite if done using conventional technology. Although these sensor systems were most certainly not designed for use on non-Remnant ships, retrofitting them onto your ship has proven to be a task up to the specialists of Aventine."
 		description "Your ship's console now sports a thick sheath of semiorganic nerve-cables which, web-like, link together the far reaches of the hull into a single sensor network. Nestled next to power conduits lie nutrient feeds necessary to keep the new sensors alive; press your ear against them and you can hear the subtle, heart-like pulsing of the chemical broth within."
+
 
 outfit "Thermoefficient Resculpt"
 		category

@@ -1,27 +1,34 @@
 outfitter "Tarazed Special"
-		  "Tarazed Tune-Up"
-		  "Park and Preen"
+			"Tarazed Tune-Up"
+			"Tarazed Hotrod Overhaul"
 
 outfitter "Betelgeuse Special"
-		  "Betelgeuse Up-Armoring"
+			"Betelgeuse Up-Armoring"
 
 outfitter "Lionheart Special"
-		  "Lionheart Lightweight Blister"
+			"Lionheart Lightweight Blister"
 
 outfitter "Kraz Special"
-		  `"The Barmy Special"`
+			`"The Barmy Special"`
 		  
 outfitter "Megaparsec Special"
-		  "Megaparsec Electrical Overhaul"
+			"Megaparsec Electrical Overhaul"
+		  
+outfitter "Syndicate Special"
+			"Syndicated Spatial Stabilizers"
+
+outfitter "Pirate Special"
+			"Stealth Resurfacing"
+			`"Remora" Assault Airlock`
 		  
 outfitter "Hai Special"
-		  "Hai Up-Armoring"
+			"Hai Up-Armoring"
 		  
 outfitter "Remnant Special"
-		  "Remnant Electrical Overhaul"
-		  "Prosthetic Gills"
-		  "Biomechanical Sensors"
-		  "Remnant Systems Integration"
+			"Remnant Electrical Overhaul"
+			"Prosthetic Gills"
+			"Biomechanical Sensors"
+			"Remnant Systems Integration"
 		  
 planet "Rust"
 		outfitter "Kraz Special"
@@ -37,6 +44,12 @@ planet "Valhalla"
 		
 planet "Mirfalk"
 		outfitter "Megaparsec Special"
+		
+planet "
+		outfitter "Syndicate Special"
+		
+planet "Buccaneer Bay"
+		outfitter "Pirate Special"
 		
 planet "Cloudfire"
 		outfitter "Hai Special"
