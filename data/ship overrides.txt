@@ -1,3 +1,16 @@
+//Special Ships
+ship "Emerald Sword"
+	attributes
+		"hull mod" 20
+		"systems mod" 8
+		"engine mod" 8
+		
+ship "Kestrel" 
+	attributes
+		"hull mod" 16
+		"systems mod" 6
+		"engine mod" 6
+
 //Human Ships
 ship "Aerie"
 	attributes
