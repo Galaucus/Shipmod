@@ -371,36 +371,25 @@ ship "Pelican"
 		
 ship "Penguin"
 	attributes
-		"hull mod" 
-		"systems mod"
-		"engine mod"
+		"hull mod" 1
+		"systems mod" 2
+		"engine mod" 2
 		
 ship "Peregrine"
 	attributes
-		"hull mod" 
-		"systems mod"
-		"engine mod"
-		
-ship "Petrel"
-	attributes
-		"hull mod" 
-		"systems mod"
-		"engine mod"
+		"hull mod" 5
+		"systems mod" 8
+		"engine mod" 7
 		
 ship "Puffin"
 	attributes
-		"hull mod" 
-		"systems mod"
-		"engine mod"		
+		"hull mod" 1
+		"systems mod" 2
+		"engine mod" 1	
 		
 ship "Starling"
 	attributes
-		"hull mod" 
-		"systems mod"
-		"engine mod"
+		"hull mod" 3
+		"systems mod" 5
+		"engine mod" 4
 		
-ship "Tern"
-	attributes
-		"hull mod" 
-		"systems mod" 
-		"engine mod" 

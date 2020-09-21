@@ -89,7 +89,7 @@ outfit "Stealth Resurfacing"
 		cost 500000
 		thumbnail "outfit/red screwdriver"
 		"scan interference" .6
-		"radar jamming" 1
+		"radar jamming" 1.25
 		"hull mod" -1
 		description "While interference plating can be effective when simply mounted adjacent to the hull, those with secrets to hide and money to spend can instead have it integrated fully into their hull. This is generally accompanied by surface-level reshaping in order to better neutralize radar. Treating an entire ship can render its interior an enigma to observers and its exterior effectively invisible to radar-based missiles."
 		description "The technical sophistication inherent in such an overhaul, as well as its questionable legality, leads to its scarcity; every pirate and smuggler out there would be packing a hull like this if they could."
