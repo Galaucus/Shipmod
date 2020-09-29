@@ -406,3 +406,36 @@ ship "Starling"
 		"systems mod" 5
 		"engine mod" 4
 		
+//Non-Automata Korath Ships
+ship "Korath Raider"
+	attributes
+		"hull mod" 14
+		"systems mod" 5
+		"engine mod" 6
+
+ship "Korath World-Ship"
+	attributes
+		"hull mod" 24
+		"systems mod" 9
+		"engine mod" 7
+		
+//Kor Sestor Ships
+ship "Kar Ik Vot 349"
+	attributes
+		"hull mod"
+		"systems mod"
+		"engine mod"
+		
+ship "Tek Far 71 - Lek"
+	attributes
+		"hull mod"
+		"systems mod"
+		"engine mod"
+		
+ship "
+	attributes
+		"hull mod"
+		"systems mod"
+		"engine mod"
+
+//Kor Mereti Ships
